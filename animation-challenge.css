@@ -20,7 +20,7 @@
     width: 50%;
     animation-name: post_card;
     animation-duration: 10s;
-    animation-iteration-count: 2;
+    animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     animation-delay: 2s;
     /* animation-direction: reverse; */
